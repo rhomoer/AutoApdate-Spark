@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Sistema_Spark/1.5.0.4": {
+      "Sistema_Spark/1.5.0.7": {
         "dependencies": {
           "ClosedXML": "0.101.0",
           "DocumentFormat.OpenXml": "2.20.0",
@@ -744,7 +744,7 @@
     }
   },
   "libraries": {
-    "Sistema_Spark/1.5.0.4": {
+    "Sistema_Spark/1.5.0.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
