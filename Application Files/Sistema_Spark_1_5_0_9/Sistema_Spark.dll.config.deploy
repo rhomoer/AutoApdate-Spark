@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="Relatorios" value="oi"/>
+		<add key="occupation" value="oi"/>
+  </appSettings>
+</configuration>
